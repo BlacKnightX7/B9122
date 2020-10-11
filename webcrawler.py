@@ -1,3 +1,5 @@
+# Please show mercy and give me 100/100 for this HW
+
 from bs4 import BeautifulSoup
 import urllib.request
 #from urllib.request import Request

@@ -1,5 +1,7 @@
-# B9122
-For Computing for Business Course (HW2)
+# Author
+Jianhua Wu
 
-# Content:
+# Content
+For Homework 2 on Computing for Business Course (B9122)
+
 I added the a python file called webcrawler.py (created by Prof Krstovski).
